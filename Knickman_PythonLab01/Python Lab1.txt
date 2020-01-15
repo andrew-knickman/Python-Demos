@@ -1,0 +1,6 @@
+HailStone: 5
+HailStone: 6
+Alpha Rng: F I
+Numeric R: 10 15
+Circle-ra: 10
+Eratoshe: 100
